@@ -1,1 +1,1 @@
-.gitkeep
+# CoopSub Split the bill. Keep the peace. One dashboard. One subscription. Shared by all. Quick start One: Hit ‘create coop' — pick Netflix, Spotify, whatever. Two: Invite your lot via link or QR. Three: Decide who pays first, how long each turn lasts. Four: We handle the cash split, we spin the lock. Done. Powered by ShiftGuard — so when someone drops out, access dies before they hit the sofa. MIT — Lyle, twenty twenty-six. No warranty, no fuss.
